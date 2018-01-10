@@ -1,0 +1,3 @@
+第一次在桌面使用git pull文件到github，感觉很好，很专注，以后要坚持
+git更新文件后首先commit，然后pull，每次pull都要输入用户名和密码，应该有优化空间
+ 2018-01-10 Alfred 
